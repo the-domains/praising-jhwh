@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: >-
@@ -9,8 +10,8 @@ description: >-
   and all discernment, so that you may approve what is excellent, and so be pure
   and blameless for the day of Christ, filled with the fruit of righteousness
   that comes through Jesus Christ, to the glory and praise of God.
-datePublished: '2016-06-17T20:30:23.473Z'
-dateModified: '2016-06-17T20:28:13.914Z'
+datePublished: '2016-06-18T20:16:48.251Z'
+dateModified: '2016-06-18T20:16:37.020Z'
 title: 'Philippians 1:9'
 author:
   - name: ''
@@ -19,7 +20,6 @@ sourcePath: _posts/2016-06-13-philippians-19.md
 authors: []
 publisher: null
 starred: false
-url: philippians-19/index.html
 _context: 'http://schema.org'
 _type: Article
 
