@@ -10,8 +10,8 @@ description: >-
   and all discernment, so that you may approve what is excellent, and so be pure
   and blameless for the day of Christ, filled with the fruit of righteousness
   that comes through Jesus Christ, to the glory and praise of God.
-datePublished: '2016-06-18T20:16:48.251Z'
-dateModified: '2016-06-18T20:16:37.020Z'
+datePublished: '2016-06-18T20:18:43.512Z'
+dateModified: '2016-06-18T20:18:24.842Z'
 title: 'Philippians 1:9'
 author:
   - name: ''
