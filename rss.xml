@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Praising JHWH]]></title>
         <description><![CDATA[Praising JHWH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jhwh.watzl.it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 09:38:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 10:24:02 GMT</lastBuildDate>
+        <atom:link href="http://jhwh.watzl.it/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Habakkuk 2:3]]></title>
+            <description><![CDATA[<article><h1>Habakkuk 2:3</h1><p>For still the vision awaits its appointed time; it hastens to the end—it will not lie. If it seems slow, wait for it; it will surely come; it will not delay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4be841dac9f676ffdaf7d86cddbebad3/croprotate.jpg?cropheight=2584&cropwidth=4975&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F656af5ed-41ff-4fcd-84dd-2a7cec9d4bcf.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/656af5ed-41ff-4fcd-84dd-2a7cec9d4bcf.jpg</link>
+            <guid isPermaLink="false">ef39a958-6d53-4a08-9e09-6dbc03c59417</guid>
+            <pubDate>Mon, 27 Jun 2016 10:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Psalm 118:24-29]]></title>
             <description><![CDATA[<article><h1>Psalm 118:24-29</h1><p>This is the day that the LORD has made;  let us rejoice and be glad in it. Save us, we pray, O LORD!  O LORD, we pray, give us success! Blessed is he who comes in the name of the LORD!  We bless you from the house of the LORD. The LORD is God,  and he has made his light to shine upon us. Bind the festal sacrifice with cords,  up to the horns of the altar! You are my God, and I will give thanks to you;  you are my God; I will extol you. Oh give thanks to the LORD, for he is good;  for his steadfast love endures forever!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79d0c823-c1ec-4d47-bb5d-f27e06304875.jpg"></article>]]></description>
