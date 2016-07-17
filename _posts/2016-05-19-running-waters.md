@@ -1,27 +1,27 @@
 ---
-datePublished: '2016-07-17T19:27:18.302Z'
-sourcePath: _posts/2016-05-19-running-waters.md
 inFeed: true
-authors: []
-hasPage: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
+inLanguage: null
 keywords: []
-author:
-  - name: ''
-    url: ''
-dateModified: '2016-07-17T19:27:10.740Z'
-title: ' John 7:37-39'
-publisher: null
 description: >-
   On the last day of the feast, the great day, Jesus stood up and cried out, “If
   anyone thirsts, let him come to me and drink. Whoever believes in me, as the
   Scripture has said, ‘Out of his heart will flow rivers of living water.’” Now
   this he said about the Spirit, whom those who believed in him were to receive,
   for as yet the Spirit had not been given, because Jesus was not yet glorified.
-inLanguage: null
-inNav: false
+datePublished: '2016-07-17T19:28:13.936Z'
+dateModified: '2016-07-17T19:28:06.049Z'
+sourcePath: _posts/2016-05-19-running-waters.md
+author:
+  - name: ''
+    url: ''
+title: ' John 7:37-39'
+authors: []
+publisher: null
 starred: false
-url: john-737-39/index.html
-_type: Article
+_type: Blurb
 
 ---
 # John 7:37-39
