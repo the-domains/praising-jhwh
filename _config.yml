@@ -1,7 +1,18 @@
+layout_spectrum: 0.1042623498942703
+typography_spectrum: 0.7343060225248337
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 name: Praising JHWH
 favicon: null
-layout_spectrum: 0.08134758286178112
-typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
 purpose: []
